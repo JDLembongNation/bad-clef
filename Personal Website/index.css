@@ -1,0 +1,41 @@
+body {
+    background: url('img/Crops.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+  /* /navbar navbar-expand-lg navbar-dark bg-dark fixed-top */
+.navbar{
+    background-color: transparent;
+    background: transparent;
+    border-color: transparent;
+    color: #F7F7F7;
+}
+.adjustToHeader{
+    top: 70px;
+}
+.whiteFont{
+    color: #F7F7F7;
+}
+.mainFont{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+.badClef{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.realhr{
+    
+        display: block;
+        height: 5px;
+        border: 2px;
+        border-top: 1px solid #ccc;
+        margin: 1em 0;
+        padding: 0; 
+    
+}
