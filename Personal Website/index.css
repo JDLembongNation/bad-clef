@@ -12,6 +12,12 @@ body {
     border-color: transparent;
     color: #F7F7F7;
 }
+a { color: inherit; } 
+.title{
+    color: #F7F7F7;
+    font-size: 100px;
+    text-align: center;
+}
 .adjustToHeader{
     top: 70px;
 }
@@ -38,4 +44,23 @@ body {
         margin: 1em 0;
         padding: 0; 
     
+}
+.section{
+    background-size: cover;
+}
+#section0{
+    background-image: url("img/Beach.jpg");
+    padding: 30% 0 0 0;
+}
+#section1{
+    background-image: url("img/Crops.jpg");
+    padding: 30% 0 0 0;
+}
+#section2{
+    background-image: url("img/DarkForest.jpg");
+    padding: 6% 0 0 0;
+}
+#section3{
+    background-image: url("img/Downtown.jpg");
+    padding: 6% 0 0 0;
 }

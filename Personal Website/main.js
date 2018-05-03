@@ -38,7 +38,7 @@ $(document).ready(() => {
   });
   var ctx = document.getElementById("secondChart").getContext('2d');
   var myChart = new Chart(ctx, {
-    type: 'bar',
+    type: 'doughnut',
     data: {
       labels: ["Computer Science", "Creating goofy shit", "Finding random stuff", "Eating", "Being a Social Bird", "League of Legends"],
       datasets: [{
