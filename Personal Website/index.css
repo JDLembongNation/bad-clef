@@ -48,12 +48,8 @@ a { color: inherit; }
 .section{
     background-size: cover;
 }
-#section0{
-    background-image: url("img/Beach.jpg");
-    padding: 30% 0 0 0;
-}
 #section1{
-    background-image: url("img/Crops.jpg");
+    background-image: url("img/Coast_Scotland_BG\ copy.jpg");
     padding: 30% 0 0 0;
 }
 #section2{
