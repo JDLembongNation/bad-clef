@@ -35,6 +35,13 @@ a { color: inherit; }
 .right{
     text-align: right;
 }
+.buttonLink{
+    text-align:center;
+    font-family: 'Raleway', sans-serif;
+    color: #F7F7F7;
+    display:block;
+    
+}
 .realhr{
     
         display: block;
@@ -58,5 +65,9 @@ a { color: inherit; }
 }
 #section3{
     background-image: url("img/Downtown.jpg");
+    padding: 6% 0 0 0;
+}
+#section4{
+    background-image: url("img/DANA_COVER.png");
     padding: 6% 0 0 0;
 }
